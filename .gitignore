@@ -54,6 +54,13 @@ dump.rdb
 /docker-compose/services/logs
 /docker-compose/tmp
 
+/docker-compose-l1/services/blockscout-db-data
+/docker-compose-l1/services/stats-db-data
+/docker-compose-l1/services/redis-data
+/docker-compose-l1/services/logs
+/docker-compose-l1/tmp
+
+
 .idea/
 *.iml
 
