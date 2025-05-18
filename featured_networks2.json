@@ -1,13 +1,13 @@
 [
 	{
 		"title": "MagicalHash Chain",
-		"url": "https://explorer.blockscout.com/",
+		"url": "https://explorer.blockscout.com:8088/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
 	},
 	{
 		"title": "MagicalHash Chain L2",
-		"url": "https://explorer-l2.blockscout.com/",
+		"url": "https://explorer.blockscout.com/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism-mainnet-light.svg"
 	}
